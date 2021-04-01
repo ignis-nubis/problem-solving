@@ -8,6 +8,6 @@ leetcode show -gxe -q es <br />
 -q query <br />
 e easy <br />
 s starred <br />
-chmod +x <filename.txt> to make it executable <br />
+chmod +x filename.txt to make it executable <br />
 execute file in questions directory to create all questions <br />
 put solved questions in solutions
